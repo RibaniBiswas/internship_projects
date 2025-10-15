@@ -5,22 +5,9 @@ This repository contains three fun and educational games built using Python and 
 
 ---
 
-## 🐍 1. Snake Game
-
-*Description:*
-A simple, classic snake game where the player controls a snake to eat food and grow longer. The game ends if the snake hits the wall or itself.
-
-*Key Concepts:* 
-- Loops and conditions  
-- Collision detection  
-- Score tracking  
-
-*How to Play:*  
-Use the arrow keys to move the snake.  
-Eat the red square to grow and score points!
 
 
-## 🧱 2. Brick Breaker Game
+## 🧱 1. Brick Breaker Game
 
 ### 🎮 Description
 Control a paddle to bounce a ball and break all the bricks on the screen.  
@@ -40,6 +27,20 @@ Your score increases for every brick you break!
 - Don’t let the ball touch the bottom of the screen!
 
 ---
+## 🐍 2. Snake Game
+
+*Description:*
+A simple, classic snake game where the player controls a snake to eat food and grow longer. The game ends if the snake hits the wall or itself.
+
+*Key Concepts:* 
+- Loops and conditions  
+- Collision detection  
+- Score tracking  
+
+*How to Play:*  
+Use the arrow keys to move the snake.  
+Eat the red square to grow and score points!
+
 
 ## ✈️ 3. Space Shooter Game
 
